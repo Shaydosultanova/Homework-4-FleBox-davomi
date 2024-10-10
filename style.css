@@ -1,0 +1,230 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.bir4{
+display: flex;
+justify-content: center;
+justify-content: space-around;
+margin-right: 10px;
+margin-bottom: 67px;
+}
+
+.ikki4{
+display: flex;
+justify-content: center;
+justify-content: space-around;
+margin-right: 10px;
+margin-bottom: 67px;
+}
+
+.uch4{
+display: flex;
+justify-content: center;
+justify-content: space-around;
+margin-right: 10px;
+}
+
+.violet{
+background-color: blueviolet;
+width: 220px;
+height: 220px;
+display: flex;
+justify-content: left;
+border-radius: 5px;
+}
+
+.violet1{
+background-color: blueviolet;
+width: 220px;
+height: 220px;
+border-radius: 5px; 
+}
+
+.violet2{
+background-color: blueviolet;
+width: 220px;
+height: 220px;
+border-radius: 5px;
+display: flex;
+flex-wrap:wrap
+}
+
+.violet3{
+background-color: blueviolet;
+width: 220px;
+height: 220px;
+border-radius: 5px;
+display: flex;
+justify-content: space-between;
+}
+
+.violet2-1{
+background-color: blueviolet;
+width: 220px;
+height: 220px;
+border-radius: 5px;
+display: flex;
+}
+
+.violet2-2{
+background-color: blueviolet;
+width: 220px;
+height: 220px; 
+border-radius: 5px; 
+display: flex;
+justify-content: end;
+}
+
+.violet2-3{
+background-color: blueviolet;
+width: 220px;
+height: 220px;
+border-radius: 5px;
+display: flex;
+justify-content: center;
+justify-content: space-evenly;
+}
+
+.violet2-4{
+background-color: blueviolet;
+width: 220px;
+height: 220px;
+border-radius: 5px;
+display: flex;
+justify-content: space-between;
+}
+
+.violet3-1{
+background-color: blueviolet;
+width: 220px;
+height: 220px;
+border-radius: 5px;
+display: flex;
+justify-content: left;
+}
+
+.violet3-2{
+background-color: blueviolet;
+width: 220px;
+height: 220px;
+border-radius: 5px;
+display: flex;
+align-items: end;
+}
+
+.violet3-3{
+background-color: blueviolet;
+width: 220px;
+height: 220px;
+border-radius: 5px;
+display: flex;
+align-items: center;
+}
+
+.violet3-4{
+background-color: blueviolet;
+width: 220px;
+height: 220px;
+border-radius: 5px;
+display: flex;
+justify-content: space-around;
+}
+
+.or{
+    background-color: chocolate;
+    width: 40px;
+    height: 40px;
+    margin: 5px;
+    border-radius: 3px;
+}
+
+.or1{
+background-color: chocolate;
+width: 40px;
+height: 40px;
+margin: 7px;
+border-radius: 3px;
+}
+
+.or2{
+ background-color: chocolate;  
+ width: 40px; 
+ height: 40px;
+ margin: 5px;
+ border-radius: 3px;
+}
+
+.or3{
+background-color: chocolate;  
+width: 40px; 
+height: 40px;
+margin: 5px;
+border-radius: 3px;  
+}
+
+.or4{
+background-color: chocolate;
+width: 40px;
+height: 40px;
+margin: 7px;
+border-radius: 3px;  
+}
+
+.or5{
+background-color: chocolate;
+width: 40px;
+height: 40px;
+margin: 5px;
+border-radius: 3px;  
+}
+
+.or6{
+background-color: chocolate;
+width: 40px;
+height: 40px;
+margin: 5px;
+border-radius: 3px;    
+}
+
+.or7{
+background-color: chocolate;
+width: 40px;
+height: 40px;
+margin: 5px;
+border-radius: 3px;    
+}
+
+.or8{
+background-color: chocolate;
+width: 40px;
+height: 40px;
+margin: 5px;
+border-radius: 3px;      
+}
+
+.or9{
+background-color: chocolate;
+width: 40px;
+height: 40px;
+margin: 5px;
+border-radius: 3px;       
+}
+
+.or10{
+background-color: chocolate;
+width: 40px;
+height: 40px;
+margin: 5px;
+border-radius: 3px;     
+}
+
+.or11{
+background-color: chocolate;
+width: 40px;
+height: 40px;
+margin: 5px;
+border-radius: 3px;    
+}
